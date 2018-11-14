@@ -10,7 +10,7 @@
   2. 2 mode, hard and easy.
   3. Can play new game.
   4. Reset game
-* [DEMO](https://aibrahim3546.github.io/Color_Games/)
+* [DEMO](https://aibrahim3546.github.io/color-games/)
 ![alt text](https://aibrahim3546.github.io/images/p2.png)
 
  
